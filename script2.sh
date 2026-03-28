@@ -13,4 +13,3 @@ case $PACKAGE in
   git) echo "Git: A distributed version control system used worldwide" ;;
   *) echo "Unknown package" ;;
 esac
-m

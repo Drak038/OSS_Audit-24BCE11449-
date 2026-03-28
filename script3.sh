@@ -22,4 +22,3 @@ if [ -d "/etc/git" ]; then
 else
   echo "Git config directory not found"
 fi
-m
