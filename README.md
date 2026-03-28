@@ -1,7 +1,7 @@
 # Open Source Audit Project
 
 ## Student Details
-- Name: Akshat Ghatiya ( 24BCE11211)
+- Name: Pranjal Verma (24BCE11449)
 - Course: Open Source Software
 - Project Title: Open Source Audit
 
