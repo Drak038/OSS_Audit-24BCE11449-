@@ -19,3 +19,4 @@ echo ""
 echo "Manifesto saved to $OUTPUT"
 echo "---------"
 cat $OUTPUT
+m

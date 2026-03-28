@@ -19,3 +19,4 @@ echo "Keyword '$KEYWORD' found $COUNT times in $LOGFILE"
 
 echo "Last 5 matching lines:"
 grep -i "$KEYWORD" "$LOGFILE" | tail -5
+m
